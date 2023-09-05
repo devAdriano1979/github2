@@ -1,2 +1,2 @@
-console.log('qualquer coisa');
-console.log('vai dar conflito');
+console.log('qualquer cois');
+console.log('segundo qualquer coisa');
